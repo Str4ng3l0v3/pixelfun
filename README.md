@@ -8,4 +8,4 @@
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
 #### Шаг 2: Установи скрипт
-<a href="https://github.com/vano23201/pixelfun/raw/master/minimap.user.js">скочать</a>
+<a href="https://github.com/Str4ng3l0v3/pixelfun/blob/master/minimap.user.js">скочать</a>
